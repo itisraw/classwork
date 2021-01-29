@@ -1,0 +1,4 @@
+var movies = ["game of thrones", "superman", "starwars", "chicken little", "superman", "spiderman"];
+movies.shift("avatar");
+movies.pop("avatar");
+console.log(movies)
