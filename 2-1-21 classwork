@@ -1,0 +1,4 @@
+let tncities =["nashville", "memphis", "knoxville", "clarksville", "chattanooga", "new york"]
+tncities.splice(0, 0, "test")
+tncities.splice(7, 0, "test")
+console.log(tncities);
