@@ -1,0 +1,5 @@
+ var fruits = ["apple", "orange", "dragonfruits", "grapes" ];
+fruits.splice(2, 1, "pineapples", "watermelons", "tomatoes now i guess") 
+console.log(fruits)
+ var Fruit = ["apple", "orange", "dragonfruits", "grapes" ];
+console.log(Fruit.slice(1,3))
